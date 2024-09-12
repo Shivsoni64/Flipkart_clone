@@ -18,7 +18,7 @@ This is a sample HTML and CSS code for an online shopping site. It includes a he
 
 To run this project locally, follow these steps:
 
-Go to - https://flipkart-home-page-clone.netlify.app/
+Go to - (https://flipk-art-mern.netlify.app/)
 
 OR
 
