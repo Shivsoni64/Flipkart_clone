@@ -11,7 +11,7 @@ This is a sample HTML and CSS code for an online shopping site. It includes a he
 
 ## Preview 
 
-<img width="960" alt="Screenshot 2023-05-26 054427" src="https://github.com/KunalKhandekar/Flipkart-HomePage-Clone/assets/134169718/6998d42d-7925-4876-9f03-2f6fda9f99de">
+<img width="960" alt="Screenshot 2023-05-26 054427" src="https://github.com/Shivsoni64/Flipkart-HomePage-Clone/assets/134169718/6998d42d-7925-4876-9f03-2f6fda9f99de">
 
 
 ## Getting Started
@@ -56,7 +56,7 @@ The design and content of the Shooping site were created by Kunal as a sample pr
 
 ## Contact
 
-If you have any questions, feedback, or suggestions regarding this project, please feel free to contact Kunal at kunalkhandekar010@gmail.com
+If you have any questions, feedback, or suggestions regarding this project, please feel free to contact shiv at shivssoni55@gmail.com
 
 ## Note
 
